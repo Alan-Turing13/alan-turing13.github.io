@@ -51,6 +51,7 @@ active {
 
 .programs {
   margin-top: 22px;
+  padding-bottom: 3.3%;
   padding-inline: 10px;
   height: auto;
   display: grid;
